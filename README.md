@@ -1,4 +1,4 @@
-# JHU PKPD FA23-SP24
+# Pharmacokinetics and Dynamics Year-long Sequence
 
 jhu-pkpd-23-24 is a repository for the code used by Alejandro Soto Franco, Daniel Labbe, Callie Jones, and Samuel Bernstein for the 540.432-433 Pharmacokinetics and Pharmacodynamics course sequence in Fall 2023 and Spring 2024.
 
